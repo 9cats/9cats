@@ -12,7 +12,7 @@
 - 这人很菜🐓，什么都不会，很抱歉帮不上忙
 
 - 如果你想和我交♂流，可通过以下途径
-    - 🐧 : [9cats](tencent://message/?uin=123337671&Site=&Menu=yes)
+    - 🐧 : [9cats](http://wpa.qq.com/msgrd?v=3&uin=123337671&site=qq&menu=yes)
     - ✈️ : [@9cats](https://t.me/9cats)
     - 📧 : <skoxpslr@gmail.com>
 
