@@ -13,7 +13,7 @@
 
 - 如果你想和我交♂流，可通过以下途径
     - 🐧 : [9cats](http://wpa.qq.com/msgrd?v=3&uin=123337671&site=qq&menu=yes)
-    - ✈️ : [@9cats](https://t.me/9cats)
+    - ✈️ : [@9cats](https://t.me/ninocats)
     - 📧 : <skoxpslr@gmail.com>
 
 <details markdown='1'><summary>没有更多了</summary>
