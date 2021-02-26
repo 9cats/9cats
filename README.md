@@ -1,4 +1,5 @@
-<img align="right" src="https://img-blog.csdnimg.cn/20210226213308726.jpg" width='200px' sytle='margin-rigth: 50px'>
+<img align="right" src="https://img-blog.csdnimg.cn/20210226213308726.jpg" width='180px'>
+<img align="right" src="https://img-blog.csdnimg.cn/20210226213359387.jpg" width='180px'>
 
 ![9cats](https://count.getloli.com/get/@:9cats?theme=rule34)
 
@@ -6,7 +7,7 @@
 
 这里是刚刚学会网络冲浪的猫
 
-<img align="right" src="https://img-blog.csdnimg.cn/20210226213343878.jpg" width='380px' sytle='margin-rigth: 50px'>
+<img align="right" src="https://img-blog.csdnimg.cn/20210226213343878.jpg" width='380px'>
 
 - 这人很菜🐓，什么都不会，很抱歉帮不上忙
 
