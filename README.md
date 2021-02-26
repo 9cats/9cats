@@ -1,4 +1,4 @@
-<img align="right" src="https://img-blog.csdnimg.cn/20210226213308726.jpg" width='350px' sytle='margin-rigth: 50px'>
+<img align="right" src="https://img-blog.csdnimg.cn/20210226213308726.jpg" width='200px' sytle='margin-rigth: 50px'>
 
 ![9cats](https://count.getloli.com/get/@:9cats?theme=rule34)
 
