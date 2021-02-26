@@ -15,6 +15,7 @@
     - 🐧 : [9cats](http://wpa.qq.com/msgrd?v=3&uin=123337671&site=qq&menu=yes)
     - ✈️ : [@9cats](https://t.me/ninocats)
     - 📧 : <skoxpslr@gmail.com>
+    - 🔗 : none（这个人还没钱搭网站）
 
 <details markdown='1'><summary>没有更多了</summary>
 我很穷<br>
