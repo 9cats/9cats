@@ -15,7 +15,7 @@
     - 🐧 : [9cats](http://wpa.qq.com/msgrd?v=3&uin=123337671&site=qq&menu=yes)
     - ✈️ : [@9cats](https://t.me/ninocats)
     - 📧 : <skoxpslr@gmail.com>
-    - 🔗 : none（这个人还没钱搭网站）
+    - 🔗 : [流浪的猫](http://112.74.54.201)（在校未满6个月，无法申请居住证备案，我是个假学生）
 
 <details markdown='1'><summary>没有更多了</summary>
 我很穷<br>
