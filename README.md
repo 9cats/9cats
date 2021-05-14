@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="#">  
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=9cats&theme=dracula" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=9cats&theme=onedark" />
 </a>
 
 ### I'm the cat that just learned to surf the Internet
