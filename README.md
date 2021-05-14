@@ -2,13 +2,11 @@
 
 #### I'm the cat that just learned to surf the Internet
 
-![9cats](https://count.getloli.com/get/@:9cats?theme=rule34)
-
-
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=mnixry&show_icons=true&count_private=true" />
 </a>
 
+![9cats](https://count.getloli.com/get/@:9cats?theme=rule34)
 
 - 🔭 I’m currently working on: Current student 
 - 🌱 I’m currently learning: MCU,FPGA,Web
