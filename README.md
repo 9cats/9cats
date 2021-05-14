@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning: MCU,FPGA,Web
 - 🙋‍♂️ I’m looking for: big man's guide
 - 💬 Ask me about: [QQ](http://wpa.qq.com/msgrd?v=3&uin=123337671&site=qq&menu=yes),[telegram](https://t.me/ninocats),[Blog](http://112.74.54.201)
-- ⚡ In fact: I'm a big pigeon🕊
+<!-- - ⚡ In fact: I'm a big pigeon🕊 -->
 
 <details markdown='1'><summary>More</summary>
 
