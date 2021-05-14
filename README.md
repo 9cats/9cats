@@ -1,10 +1,10 @@
-### Hi there 👋
-
-#### I'm the cat that just learned to surf the Internet
-
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=9cats&show_icons=true&count_private=true" />
 </a>
+
+### Hi there 👋
+
+#### I'm the cat that just learned to surf the Internet
 
 - 🔭 I’m currently working on: Current student 
 - 🌱 I’m currently learning: MCU,FPGA,Web
