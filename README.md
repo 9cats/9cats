@@ -1,23 +1,23 @@
-<img align="right" src="https://img-blog.csdnimg.cn/20210226213308726.jpg" width='180px'>
-<img align="right" src="https://img-blog.csdnimg.cn/20210226213359387.jpg" width='180px'>
+### Hi there 👋
+
+#### I'm the cat that just learned to surf the Internet
 
 ![9cats](https://count.getloli.com/get/@:9cats?theme=rule34)
 
-### Hi there 👋
 
-这里是刚刚学会网络冲浪的猫
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mnixry&show_icons=true&count_private=true" />
+</a>
 
-<img align="right" src="https://img-blog.csdnimg.cn/20210226213343878.jpg" width='380px'>
 
-- 这人很菜🐓，什么都不会，很抱歉帮不上忙
+- 🔭 I’m currently working on: Current student 
+- 🌱 I’m currently learning: MCU,FPGA,Web
+- 🤔 I’m looking for: 
+- 💬 Ask me about: [QQ](http://wpa.qq.com/msgrd?v=3&uin=123337671&site=qq&menu=yes),[telegram](https://t.me/ninocats),[Blog](http://112.74.54.201)
+- ⚡ In fact: I'm a big pigeon🕊
+<!-- - 👯 I’m looking to collaborate on ... -->
 
-- 如果你想和我交♂流，可通过以下途径
-    - 🐧 : [9cats](http://wpa.qq.com/msgrd?v=3&uin=123337671&site=qq&menu=yes)
-    - ✈️ : [@9cats](https://t.me/ninocats)
-    - 📧 : <skoxpslr@gmail.com>
-    - 🔗 : [流浪的猫](http://112.74.54.201)（在校未满6个月，无法申请居住证备案，我是个假学生）
-
-<details markdown='1'><summary>没有更多了</summary>
-我很穷<br>
-但如果有活干，可以叫上我试试
+<details markdown='1'><summary>No More</summary>
+I am poor<br>
+But if you have work, you can call me to try
 </details>
