@@ -34,9 +34,18 @@
 
 ![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)
 ![](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=flat-square&logo=Altium-Designer&logoColor=fff)
+
 ### 🏕️ **Most Yearning Tools&Platforms**
 
 ![](https://img.shields.io/badge/-MacBook%20With%20M%20Chip-00ADD8?style=flat-square&logo=MacOS&logoColor=fff)
 ![](https://img.shields.io/badge/-iPad%20Pro%20With%20Penceil-00ADD8?style=flat-square&logo=Apple&logoColor=fff)
+
+### ⏯️ **Next Plans**
+
+- Build a bot based on (cq-picsearcher-bot)[https://github.com/Tsuk1ko/cq-picsearcher-bot]
+- Build a My RssHub based on (Rsshub)(https://github.com/DIYgod/RSSHub)
+- Do more exercise in Ti Cup National Undergraduate Electronics Design Contest
+- Just learn what I should learn
+- EXPLORE
 
 </details>
