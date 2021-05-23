@@ -42,9 +42,7 @@
 
 ### ⏯️ **Next Plans**
 
-- Build a bot based on [cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot)
 - Build a My RssHub based on [Rsshub](https://github.com/DIYgod/RSSHub)
-- Create a repository to manage static resources that will be used in the fulture based on [cloudflare](https://workers.cloudflare.com/)
 - Do more exercise in Ti Cup National Undergraduate Electronics Design Contest
 - Just learn what I should learn
 - EXPLORE
