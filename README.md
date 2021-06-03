@@ -42,7 +42,6 @@
 
 ### ⏯️ **Next Plans**
 
-- Build a My RssHub based on [Rsshub](https://github.com/DIYgod/RSSHub)
 - Do more exercise in Ti Cup National Undergraduate Electronics Design Contest
 - Just learn what I should learn
 - EXPLORE
